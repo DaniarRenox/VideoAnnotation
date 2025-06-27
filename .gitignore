@@ -1,0 +1,5 @@
+/venv
+/.git
+/crowd.mp4
+/output.mp4
+/yolov8x.pt
